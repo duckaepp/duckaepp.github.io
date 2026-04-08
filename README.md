@@ -19,4 +19,4 @@
 
 ### Το Duck_Quiz μπορείς να το βρείς εδώ :
 
-https://dionysismichalatos.github.io/
+https://duckaepp.github.io
